@@ -1,0 +1,6 @@
+framework module SwiftyMenuBar {
+  umbrella header "SwiftyMenuBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

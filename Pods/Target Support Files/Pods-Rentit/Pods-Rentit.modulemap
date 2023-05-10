@@ -1,0 +1,6 @@
+framework module Pods_Rentit {
+  umbrella header "Pods-Rentit-umbrella.h"
+
+  export *
+  module * { export * }
+}

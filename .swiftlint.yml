@@ -1,0 +1,22 @@
+
+excluded:
+  - Carthage
+  - Pods
+  - R.generated.swift
+  
+disabled_rules:
+  - trailing_whitespace
+  - force_cast
+  - switch_case_alignment
+  - redundant_string_enum_value
+  - closure_parameter_position
+  - identifier_name
+  - vertical_whitespace
+  - colon
+  - comment_spacing
+  - for_where
+  - function_body_length
+  - redundant_optional_initialization
+  - cyclomatic_complexity
+  
+line_length: 500
